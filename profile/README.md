@@ -1,1 +1,1 @@
-![TearonLabs Banner](./banner.png)
+![TearonLabs Banner](./banner_rounded.png)
